@@ -42653,7 +42653,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 7456070610498382240}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 898397097}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 46d105e18281fae4cb75b5f4157a2aea, type: 3}
   m_Name: 
@@ -94434,6 +94434,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4113725845947286924, guid: 9b994b72bb4b749449ad3d9aa1954c61,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4113725845947286924, guid: 9b994b72bb4b749449ad3d9aa1954c61,
+        type: 3}
+      propertyPath: _listenAddress
+      value: 127.0.0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 4475642890658111063, guid: 9b994b72bb4b749449ad3d9aa1954c61,
         type: 3}
       propertyPath: ipList.Array.size
@@ -94443,6 +94453,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LightConsole
+      objectReference: {fileID: 0}
+    - target: {fileID: 7539066988234119257, guid: 9b994b72bb4b749449ad3d9aa1954c61,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7602490923026768217, guid: 9b994b72bb4b749449ad3d9aa1954c61,
         type: 3}
