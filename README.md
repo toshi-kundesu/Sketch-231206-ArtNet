@@ -4,3 +4,4 @@
 - 他の照明・ステージモデルやスクリプトの部分はunlicenseです
   - https://unlicense.org/
 - Scenes/MainSceneに動くシーンが入っています
+- https://x.com/toshikun_0112/status/1732333088284516617?s=20
