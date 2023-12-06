@@ -3,3 +3,4 @@
   - https://unity-chan.com/contents/license_jp/
 - 他の照明・ステージモデルやスクリプトの部分はunlicenseです
   - https://unlicense.org/
+- Scenes/MainSceneに動くシーンが入っています
